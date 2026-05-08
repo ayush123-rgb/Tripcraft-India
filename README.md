@@ -28,5 +28,6 @@ npm install
 npm run dev
 
 Description
+
 This project helps users plan realistic India trips by combining destination discovery, travel filters, detailed guides, restaurant suggestions, and personalized itinerary generation in one clean interface.
 
