@@ -24,6 +24,7 @@ Tripcraft India is a modern React travel itinerary planner for exploring tourist
 ## Run Locally
 
 npm install
+
 npm run dev
 
 Description
